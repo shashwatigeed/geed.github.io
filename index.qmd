@@ -2,18 +2,8 @@
 title: "geed.github.io"
 ---
 
-title: "Samantha Csik"
+About this site
 
-about:
-template: trestles
-image-shape: rounded
-image-width: 15em
-links:
- - text: LinkedIn
-href: https://www.linkedin.com/in/samanthacsik/
- - text: Twitter
-href: https://twitter.com/SamanthaCsik
- - text: GitHub
-href: https://github.com/samanthacsik
- - text: Email
-href: mailto:scsik\@ucsb.edu
+```{r}
+1 + 1
+```
