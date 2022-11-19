@@ -2,10 +2,16 @@
 title: "geed.github.io"
 ---
 
-This is a Quarto website.
-
-ABOUT
-
-```{r}
-1 + 1
-```
+title: "Samantha Csik"
+image: /Users/sg1075/Library/CloudStorage/Box-Box/My Copy/IMG_2034.jpg
+about:
+template: trestles
+image-shape: rounded
+image-width: 15em
+links:
+ - text: Twitter
+href: https://twitter.com/SamanthaCsik
+ - text: GitHub
+href: https://github.com/samanthacsik
+ - text: Email
+href: mailto:scsik\@ucsb.edu
