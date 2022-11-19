@@ -3,12 +3,14 @@ title: "geed.github.io"
 ---
 
 title: "Samantha Csik"
-image: /Users/sg1075/Library/CloudStorage/Box-Box/My Copy/IMG_2034.jpg
+
 about:
 template: trestles
 image-shape: rounded
 image-width: 15em
 links:
+ - text: LinkedIn
+href: https://www.linkedin.com/in/samanthacsik/
  - text: Twitter
 href: https://twitter.com/SamanthaCsik
  - text: GitHub
