@@ -2,4 +2,10 @@
 title: "geed.github.io"
 ---
 
+To learn more about Quarto websites visit \<https://quarto.org/docs/websites\>.
+
 ABOUT
+
+...{r}
+
+1+1
